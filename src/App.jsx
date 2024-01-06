@@ -29,10 +29,10 @@ const siteProps = {
   email: "leenazaheer734@gmail.com",
   gitHub: "https://github.com/leenazaheer734",
   instagram: "",
-  linkedIn: "leena-zaheer-3a3b40262/",
+  linkedIn: "https://www.linkedin.com/in/leena-zaheer-3a3b40262/",
   medium: "",
   twitter: "",
-  youTube: "UCLgZ3G_0GVpqbNUg1OeZTUg",
+  youTube: "https://www.youtube.com/channel/UCLgZ3G_0GVpqbNUg1OeZTUg",
 };
 
 const primaryColor = "#4E567E";
