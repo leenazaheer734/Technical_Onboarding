@@ -27092,10 +27092,10 @@ var _stylesCss = require("./styles.css");
     email: "leenazaheer734@gmail.com",
     gitHub: "https://github.com/leenazaheer734",
     instagram: "",
-    linkedIn: "leena-zaheer-3a3b40262/",
+    linkedIn: "https://www.linkedin.com/in/leena-zaheer-3a3b40262/",
     medium: "",
     twitter: "",
-    youTube: "UCLgZ3G_0GVpqbNUg1OeZTUg"
+    youTube: "https://www.youtube.com/channel/UCLgZ3G_0GVpqbNUg1OeZTUg"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -27587,7 +27587,7 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                         columnNumber: 11
                     }, undefined),
                     gitHub && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: `https://github.com/${gitHub}`,
+                        href: `${gitHub}`,
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -27623,7 +27623,7 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                         columnNumber: 11
                     }, undefined),
                     linkedIn && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: `https://www.linkedin.com/in/${linkedIn}`,
+                        href: `${linkedIn}`,
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -27677,7 +27677,7 @@ var _youtubeSvgDefault = parcelHelpers.interopDefault(_youtubeSvg);
                         columnNumber: 11
                     }, undefined),
                     youTube && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: `https://www.youtube.com/c/${youTube}`,
+                        href: `${youTube}`,
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
