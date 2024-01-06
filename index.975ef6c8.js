@@ -27092,10 +27092,10 @@ var _stylesCss = require("./styles.css");
     email: "leenazaheer734@gmail.com",
     gitHub: "https://github.com/leenazaheer734",
     instagram: "",
-    linkedIn: "https://www.linkedin.com/in/leena-zaheer-3a3b40262/",
+    linkedIn: "leena-zaheer-3a3b40262/",
     medium: "",
     twitter: "",
-    youTube: "https://www.youtube.com/channel/UCLgZ3G_0GVpqbNUg1OeZTUg"
+    youTube: "UCLgZ3G_0GVpqbNUg1OeZTUg"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
