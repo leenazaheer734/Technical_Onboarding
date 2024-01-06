@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/me_with_laptop.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with me and laptop";
 
 /**
  * Project list
@@ -31,29 +31,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Airline Optimization System",
+    description: 
+      "This desktop-based application is designed to address the challenges faced by the airline industry in efficiently managing flights, passenger information, and ticketing processes. The system leverages various data structures and algorithms to provide a robust solution for airline managers and passengers.",
+    url: "https://gitlab.com/mwaliahmad/dsafinalprojectpid29",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Smart Color Mixer",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project utilizes Arduino UNO, ESP32, and RGB LED technology to create an interactive lighting experience with various color modes.",
+    url: "https://github.com/mwaliahmad/Coal-Final-Project",
   },
   {
-    title: "My Resume Site",
+    title: "Tube Harvest",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This project is a allows you to scrap videos from youtube and compare them, also uses various sorting and searching algorithms to sort and search the videos and help you decide what you want to watch.",
+    url: "https://gitlab.com/mwaliahmad/2022-cs-65dsamidproject",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Bank Management System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+      "This was created in C# and ted from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://github.com/leenazaheer734/Projects_Semester_1",
+  }
 ];
 
 const Portfolio = () => {
